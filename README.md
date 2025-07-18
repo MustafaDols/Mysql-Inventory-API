@@ -22,12 +22,8 @@ It provides basic inventory management features including products, suppliers, a
 - **DELETE /sales/:id** — Delete a sale
 
 ### Supplier APIs
-- **GET /suppliers** — Get all suppliers
-- **POST /suppliers/AddSupplier** — Add a new supplier
-- **PUT /suppliers/:id** — Update supplier
-- **DELETE /suppliers/:id** — Delete supplier
 
-#### Additional Supplier APIs
+- **POST /suppliers/AddSupplier** — Add a new supplier
 - **POST /suppliers/MODIFYContactNumber** — Modify supplier contact number
 - **GET /suppliers/SupplierNameStartWithF** — List suppliers whose names start with "F"
 
