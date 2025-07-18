@@ -1,4 +1,4 @@
-# MysqlInventory-API
+# Mysql-Inventory-API
 
 This project is a RESTful API built using Node.js, Express.js, and MySQL (via mysql2).  
 It provides basic inventory management features including products, suppliers, and sales operations.
